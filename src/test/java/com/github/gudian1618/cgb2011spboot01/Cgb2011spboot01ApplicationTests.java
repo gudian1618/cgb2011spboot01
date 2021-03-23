@@ -8,6 +8,7 @@ class Cgb2011spboot01ApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
